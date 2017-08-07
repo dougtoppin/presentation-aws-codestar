@@ -24,7 +24,7 @@
 
 AWS service providing templates to provision all resources required for creating, building, deploying and monitoring applications
 
----
++++
 ### What does it provision
 
 * CodeCommit
@@ -33,21 +33,21 @@ AWS service providing templates to provision all resources required for creating
 * CodeDeploy (EC2, Elastic Beanstalk, Lambda)
 * CloudWatch
 
----
++++
 ### How does it work
 
 * CloudFormation
 ---
-### Why use it
+#### Why use it
 
-Reduce
+Reduces
 * time required to provision
 * expertise required to provision
 * expertise required to start monitoring
 
 +++
-#### Reference
-* fully comfigured and working tool chain
+#### Provides a reference
+* fully configured and working tool chain
 
 +++
 #### Customize
