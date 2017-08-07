@@ -55,7 +55,7 @@ Reduces
 ---
 ### Demo
 
-(play desktop recording of a provisioing session here, pause at points to describe and discuss)
+(play desktop recording of a provisioning session here, pause at points to describe and discuss)
 
 ---
 ### What can't you do
