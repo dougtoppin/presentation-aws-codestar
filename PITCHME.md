@@ -34,6 +34,10 @@ AWS service providing templates to provision all resources required for creating
 * CloudWatch
 
 +++
+
+![Pipeline](assets/AWSCodeStarProjectPipeline.png)
+
++++
 ### How does it work
 
 * CloudFormation
