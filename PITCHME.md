@@ -22,7 +22,7 @@
 ---
 ### What is CodeStar
 
-AWS service providing templates to provision all resources required for creating, building, deploying and monitoring applications
+AWS service providing templates to provision all resources required for creating, building, deploying and monitoring applications for various architectures
 
 +++
 ### What does it provision
@@ -32,6 +32,7 @@ AWS service providing templates to provision all resources required for creating
 * CodePipeline - CI/CD
 * CodeDeploy (EC2, Elastic Beanstalk, Lambda) - code deployment
 * CloudWatch - logging/monitoring
+* IAM - roles, policies
 
 +++
 
@@ -40,7 +41,7 @@ AWS service providing templates to provision all resources required for creating
 +++
 ### How does it work
 
-* CloudFormation
+* CloudFormation - very capable automated repeatable provisioning (break the habit of using the admin console, do not launch instances, instead create autoscaling groups)
 ---
 #### Why use it
 
@@ -48,11 +49,14 @@ Reduces
 * time required to provision
 * expertise required to provision
 * expertise required to start monitoring
-* time/expertise required to deprovision
+* time/expertise required to de-provision
 
 +++
 #### Provides a reference
 * fully configured and working tool chain
+* various languages supported (Java, JavaScript, PHP, Ruby, C#, Python)
+* serverless resource examples
+* API Gateway and Lambda coupling
 
 +++
 #### Customize
@@ -60,18 +64,21 @@ Reduces
 
 +++
 #### Issues
-* does not always delete S3 buckets that were created
+* project deletion does not always delete S3 CodeStar buckets that were created
+
+
+---
+### What it does not do
+
+* templates do not cover all possible architecture cases
+* cannot create a CodeStar template
+
+---
+### Links
+* https://aws.amazon.com/codestar/
 
 ---
 ### Demo
 
 (play desktop recording of a provisioning session here, pause at points to describe and discuss)
 
----
-### What can't you do
-
-* templates do not cover all cases
-* cannot create a template
----
-### Links
-* https://aws.amazon.com/codestar/
