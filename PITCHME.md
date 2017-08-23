@@ -1,9 +1,9 @@
 ## AWS CodeStar
-##### <span style="font-family:Helvetica Neue; font-weight:bold"><span style="color:#e49436">NoVa DevOps Meetup, 15-Aug-2017</span>
+##### <span style="font-family:Helvetica Neue; font-weight:bold"><span style="color:#e49436">AWS Washington DC Meetup, 23-Aug-2017</span>
 <span style="color:#e49436">dougtoppin@gmail.com</span>
 <span style="color:#e49436">
 
-<a target="_blank" href="https://www.meetup.com/NOVA-DevOps/">www.meetup.com/NOVA-DevOps/</a></span>
+<a target="_blank" href="https://www.meetup.com/AWS-Washington-DC-Meet-Up/">https://www.meetup.com/AWS-Washington-DC-Meet-Up/</a></span>
 
 <span style="color:#e49436"><a target="_blank"  href="https://github.com/dougtoppin/presentation-aws-codestar">github.com/dougtoppin/presentation-aws-codestar</a></span>
 
@@ -81,4 +81,3 @@ Reduces
 ### Demo
 
 (play desktop recording of a provisioning session here, pause at points to describe and discuss)
-
