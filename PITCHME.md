@@ -27,11 +27,11 @@ AWS service providing templates to provision all resources required for creating
 +++
 ### What does it provision
 
-* CodeCommit
-* CodeBuild
-* CodePipeline
-* CodeDeploy (EC2, Elastic Beanstalk, Lambda)
-* CloudWatch
+* CodeCommit - git repository
+* CodeBuild - build service
+* CodePipeline - CI/CD
+* CodeDeploy (EC2, Elastic Beanstalk, Lambda) - code deployment
+* CloudWatch - logging/monitoring
 
 +++
 
@@ -48,6 +48,7 @@ Reduces
 * time required to provision
 * expertise required to provision
 * expertise required to start monitoring
+* time/expertise required to deprovision
 
 +++
 #### Provides a reference
@@ -56,6 +57,11 @@ Reduces
 +++
 #### Customize
 * modify template to suit your needs
+
++++
+#### Issues
+* does not always delete S3 buckets that were created
+
 ---
 ### Demo
 
