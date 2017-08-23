@@ -15,9 +15,9 @@
 * What does it provision
 * How does it work
 * Why use it
-* Demo
-* What can't you do
+* What it does not do
 * Links
+* Demo
 
 ---
 ### What is CodeStar
