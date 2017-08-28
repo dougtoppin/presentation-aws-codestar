@@ -78,9 +78,16 @@ Reduces
 ---
 ### When is it appropriate to use
 
+* starting from scratch
+* you need to add automated provisioning
+
+
 ---
 
 ### Can you modify resources using CodeStar
+
+* the UI is not meant to be used to directly change resources
+* UI does provide access to the various AWS services to make changes
 
 ---
 ### Links
