@@ -16,6 +16,8 @@
 * How does it work
 * Why use it
 * What it does not do
+* When is it appropriate to use
+* Can you modify resources using CodeStar
 * Links
 * Demo
 
@@ -72,6 +74,13 @@ Reduces
 
 * templates do not cover all possible architecture cases
 * cannot create a CodeStar template
+
+---
+### When is it appropriate to use
+
+---
+
+### Can you modify resources using CodeStar
 
 ---
 ### Links
